@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:frems.nomify.com)",
+      "mcp__acp__Bash"
+    ]
+  }
+}
